@@ -42,4 +42,4 @@ Open the index.html file in your browser to view and use the calculator. 🌐
 - Implement error handling for division by zero ⚠️
 
 ## Contributing 🤝
-Feel free to fork this repository and submit pull requests for improvements. Make sure to follow the project's code style when contributing. 🛠️
+Feel free to fork this repository and submit pull requests for improvements. Make sure to follow the project's code style when contributing.🛠️
