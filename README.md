@@ -9,7 +9,7 @@ A basic web-based calculator that performs arithmetic operations such as additio
 - **Responsive Design**: Mobile and desktop-friendly interface 📱💻
 - **User-Friendly Interface**: Simple and intuitive layout 🖥️
 
-## Technologies Used ⚙️
+## Technologies Used⚙️
 
 - **Frontend**: HTML, CSS, JavaScript
 
